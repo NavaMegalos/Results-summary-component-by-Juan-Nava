@@ -12,7 +12,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 <br>
 
 ### Links
-- Solution URL: https://result-summary.juan-nava.com.mx
+- Solution URL:https://result-summary-nava.netlify.app/
 
 ### The challenge
     Users should be able to:
